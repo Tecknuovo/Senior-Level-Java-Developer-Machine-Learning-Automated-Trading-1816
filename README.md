@@ -6,7 +6,7 @@ Java 10, GCP, Microservices, Machine learning, Docker, Kubernetes
 
 # The company: 
 
-A small independently traded fund based in the City. 12 people in total you will work with a dedicated team of data scientists, software engineers and 2 portfolio managers. The company model’s investor behaviour in listed securities to create predictive trading strategies.
+A small independently traded fund based in the East End. 12 people in total you will work with a dedicated team of data scientists, software engineers and 2 portfolio managers. The company model’s investor behaviour in listed securities to create predictive trading strategies.
 
 # The environment/Culture: 
 
